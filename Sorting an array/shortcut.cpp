@@ -1,4 +1,7 @@
 #  Using sort() Function (Shortcut) 
+# sort(arr, arr + n) sorts the array in ascending order (by default).
+✅ sort(arr, arr + n, greater<int>()) sorts it in descending orde
+
 
 
 #include <iostream>
