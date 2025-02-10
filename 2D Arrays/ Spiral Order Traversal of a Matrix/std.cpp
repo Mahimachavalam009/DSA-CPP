@@ -56,3 +56,7 @@ right → Tracks the right boundary
 3️⃣ Move right to left on bottom row (if valid)
 4️⃣ Move bottom to top on left column (if valid)
 5️⃣ Shrink boundaries and repeat for the inner layers
+
+ Time Complexity Analysis
+Each element is visited once → O(N×M) (where N = rows, M = cols)
+Efficient for large matrices ✅
