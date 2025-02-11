@@ -1,0 +1,10 @@
+ Logic:
+
+Keep dividing by 2 and store remainders in reverse order.
+✅ Example:
+Decimal 11 → Binary
+11 / 2 = 5, remainder = 1  
+5 / 2 = 2, remainder = 1  
+2 / 2 = 1, remainder = 0  
+1 / 2 = 0, remainder = 1  
+Binary: 1011
