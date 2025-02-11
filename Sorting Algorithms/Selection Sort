@@ -1,0 +1,16 @@
+ Logic:
+
+Find the minimum element and swap it with the first unsorted position
+Repeat for the rest of the array
+
+🔹 Example
+Unsorted Array → [4, 2, 8, 1]
+
+Pass 1:
+Smallest element 1 found → Swap with 4
+✅ [1, 2, 8, 4]
+Pass 2:
+Smallest in remaining part → 2 (already correct)
+Pass 3:
+Smallest in remaining part → 4 → Swap with 8
+✅ [1, 2, 4, 8]
