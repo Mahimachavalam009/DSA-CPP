@@ -1,0 +1,15 @@
+ Logic:
+
+Pick an element and place it in the correct position among previous elements
+🔹 Example
+Unsorted Array → [4, 2, 8, 1]
+
+Pass 1:
+2 is placed before 4 → [2, 4, 8, 1]
+
+Pass 2:
+8 is already correct
+
+Pass 3:
+1 is inserted at the start → [1, 2, 4, 8]
+
