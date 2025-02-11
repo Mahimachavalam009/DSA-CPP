@@ -1,0 +1,24 @@
+ Bubble Sort (Step-by-Step Explanation)
+💡 Logic:
+
+Compare adjacent elements
+If left > right, swap them
+Keep repeating until the array is sorted
+
+🔹 Example
+Unsorted Array → [4, 2, 8, 1]
+Let's go step by step:
+Pass1:
+(4, 2) → Swap → [2, 4, 8, 1]
+(4, 8) → No Swap
+(8, 1) → Swap → [2, 4, 1, 8]
+🔹 Largest element 8 is now at the right place.
+
+Pass 2:
+(2, 4) → No Swap
+(4, 1) → Swap → [2, 1, 4, 8]
+🔹 4 is now at the right place.
+
+Pass 3 :
+(2, 1) → Swap → [1, 2, 4, 8]
+✅ Sorted Array → [1, 2, 4, 8]
