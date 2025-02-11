@@ -1,0 +1,11 @@
+Logic:
+
+Each binary digit represents a power of 2.
+Convert by multiplying each bit with 2^position.
+
+
+✅ Example:
+Binary 1011 → Decimal
+1 × 2³ + 0 × 2² + 1 × 2¹ + 1 × 2⁰  
+= 8 + 0 + 2 + 1  
+= 11
