@@ -18,3 +18,6 @@ int main() {
     cout << "Decimal: " << binaryToDecimal(binary);
     return 0;
 }
+
+
+o/p : Decimal: 11
