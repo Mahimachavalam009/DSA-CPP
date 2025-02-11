@@ -22,3 +22,10 @@ int main() {
     }
     return 0;
 }
+
+O/P : 1 2 4 8
+
+Time Complexity:
+
+Best Case (Already Sorted): O(n)
+Worst Case: O(n²)    
