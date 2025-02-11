@@ -1,0 +1,9 @@
+Decimal → Octal: Divide by 8, store remainders.
+Decimal → Hexadecimal: Divide by 16, map 10-15 to A-F.
+
+✅ Example (Decimal to Hexadecimal):
+
+Decimal 26 → Hexadecimal  
+26 / 16 = 1 remainder 10 → "A"  
+1 / 16 = 0 remainder 1  
+Hex: 1A
